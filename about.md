@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a huge fan of LineageOS. Started writing on how to update LineageOS for various Android devices for beginners or newbie users who want to update LineageOS for their device.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Following is my full time blog where I update more on LineageOS: [UNOFFICIAL LineageOS Portal](https://www.cyanogenmods.org/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email me using this link](mailto:siba@infysim.org)
